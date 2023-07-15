@@ -10,12 +10,14 @@
     </p>
   </v-card-text>
   <div class="text-center">
-    <v-btn
-      flat
-      color="light-blue-darken-4"
-      class="align-self-center"
-      rounded="xl"
-      >Телеграм-бот<v-icon end icon="fa-brands fa-telegram" size="22"
-    /></v-btn>
+    <a href="https://t.me/televvd_bot" target="_blank">
+      <v-btn
+        flat
+        color="light-blue-darken-4"
+        class="align-self-center"
+        rounded="xl"
+        >Телеграм-бот<v-icon end icon="fa-brands fa-telegram" size="22"
+      /></v-btn>
+    </a>
   </div>
 </template>
